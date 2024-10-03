@@ -18,9 +18,15 @@
 
 ## 🚀 Profiles:
 
-[![Linkedin: Kanika Chauhan](https://img.shields.io/badge/-KanikaChauhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanika-chauhan-b2084828a/)](https://www.linkedin.com/in/kanika-chauhan-b2084828a/)
-[![GitHub: Kanika Chauhan](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Kanika1305)
-![Profile Views](https://komarev.com/ghpvc/?username=Kanika1305&style=flat-square&color=green)
+| Platform    | Badge                                                                                                                              |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------|
+| LinkedIn    | [![Linkedin: Kanika Chauhan](https://img.shields.io/badge/-KanikaChauhan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-chauhan-b2084828a/) |
+| GitHub      | [![GitHub: Kanika Chauhan](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Kanika1305) |
+| CodePen     | [![CodePen](https://img.shields.io/badge/CodePen-KanikaChauhan-%2300b0d7.svg?logo=codepen&logoColor=white)](https://codepen.io/Kanika-Chauhan) |
+
+
+Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Kanika1305&color=green&label=Profile%20Views&style=flat)
+
 
 ## 🛠️ Languages and Tools:
 <p align="left">
@@ -35,5 +41,8 @@
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kanika1305&layout=compact&langs_count=8&theme=vue-dark"/>
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanika1305&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
 </p>
+
+
+
 
 
