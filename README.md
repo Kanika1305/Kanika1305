@@ -18,11 +18,14 @@
 
 ## 🚀 Profiles:
 
+## 🚀 Profiles:
+
 | Platform    | Badge                                                                                                                              |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------|
 | LinkedIn    | [![Linkedin: Kanika Chauhan](https://img.shields.io/badge/-KanikaChauhan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-chauhan-b2084828a/) |
 | GitHub      | [![GitHub: Kanika Chauhan](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Kanika1305) |
 | CodePen     | [![CodePen](https://img.shields.io/badge/CodePen-KanikaChauhan-%2300b0d7.svg?logo=codepen&logoColor=white)](https://codepen.io/Kanika-Chauhan) |
+| HackerRank  | [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kanika13c) |
 
 
 Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Kanika1305&color=green&label=Profile%20Views&style=flat)
@@ -43,6 +46,13 @@ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Kanika1305&c
 </p>
 
 
+## 📞 Contact Me:
+
+<p align="left">
+  <a href="mailto:kanika13c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kanika-chauhan-b2084828a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Kanika1305"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/></a>
+</p>
 
 
 
