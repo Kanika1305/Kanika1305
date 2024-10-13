@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: C, C++, Python, Web Development
 - 👯 I’m looking to collaborate on GitHub and LinkedIn
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kanika-chauhan-b2084828a/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kanika-chauhandb13/)
 
 <br/><br/>
 <img  align="centre" alt="Coding" width="80%" height="350px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ltYmkwMTR4eDFxMDhtYWpuNzlpd2hxbm51eDdhampjN2tlNGR0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
@@ -21,7 +21,7 @@
 
 | Platform    | Badge                                                                                                                              |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------|
-| LinkedIn    | [![Linkedin: Kanika Chauhan](https://img.shields.io/badge/-KanikaChauhan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-chauhan-b2084828a/) |
+| LinkedIn    | [![Linkedin: Kanika Chauhan](https://img.shields.io/badge/-KanikaChauhan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-chauhandb13/) |
 | GitHub      | [![GitHub: Kanika Chauhan](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Kanika1305) |
 | CodePen     | [![CodePen](https://img.shields.io/badge/CodePen-KanikaChauhan-%2300b0d7.svg?logo=codepen&logoColor=white)](https://codepen.io/Kanika-Chauhan) |
 | HackerRank  | [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kanika13c) |
@@ -49,7 +49,7 @@ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Kanika1305&c
 
 <p align="left">
   <a href="mailto:kanika13c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kanika-chauhan-b2084828a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kanika-chauhandb13/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/Kanika1305"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/></a>
 </p>
 
